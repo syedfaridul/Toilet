@@ -1,6 +1,6 @@
 # Introduction
 
-Woman in our city feel very insecure when they go outside of their home, because public toilets are not very safe and hygienic and often they can not use it. Sometime somehow they manage to use it but the experiance is totally horrific. Most of the time it is very un-healthy and unhygienic.
+Woman in our city feel very insecure when they go outside of their home, because public toilets are not very safe and hygienic and often they can not use it. Sometime somehow they manage to use it but the experiance is totally unwillingly. Most of the time it is very un-healthy and unhygienic for them.
 
 So, we are making this application to make it easier for women to find the nearest safest and clean toilets from her current location. With this app woman can easily see what is the condition of the nearest toilet. 
 
