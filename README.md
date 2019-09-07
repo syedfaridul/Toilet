@@ -1,12 +1,14 @@
 # Introduction
 
-Woman in our city feel very insicure when they go out side of their home. Public toilet is not very safe and clean so they can't use it. Mele are somehow manage to do it. Most of the time its very un healthy and unhiganic.
+Woman in our city feel very insecure when they go outside of their home, because public toilets are not very safe and hygienic and often they can not use it. Sometime they somehow manage to use it unwillingly. Most of the time it is very un-healthy and unhygienic for them.
 
-So we make that application. With that apps people can see where is the toilet and what is the condation of it.People can share reviev and see others openions.
+So, we are making this application to make it easier for women to find the nearest safest and clean toilets from her current location. With this app woman can easily see what is the condition of the nearest toilet. 
 
-This application will bring a healthy habit it our city.
+Everyone can share review of the toilet’s after the use of it, in the app and see each other’s opinions and review and it will make sure the proper socal hygiene in there. 
 
-We think In feture father will buy a good toilet experiance for his son so his son can learn a good healthy higanick comfortable live improving lesson.
+This application will improve hygiene and social health for women in our city and it will bring a healthy habit. We believe with this app we will be able to improve our urban experiance in our city.
+
+We think In feture a good mother will buy a good healty socal experiance for her daughter so her daughter  can learn a good healthy,higanick, comfortable and live improving lesson.
 
 
 
