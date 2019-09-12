@@ -1,6 +1,6 @@
 # Toilet Login XML
 
-http://github.com/sushen/Toilet/blob/master/app/src/main/res/layout/activity\_main.xml
+[https://github.com/sushen/Toilet/blob/master/app/src/main/res/layout/activity\_main.xml](https://github.com/sushen/Toilet/blob/master/app/src/main/res/layout/activity_main.xml)
 
 ```text
 <?xml version="1.0" encoding="utf-8"?>
