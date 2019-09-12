@@ -1,6 +1,6 @@
 # Toilet Login XML
 
-{% embed url="https://github.com/sushen/Toilet/commit/0cfcf08c4812557cd0939b54e28c9bb64290be8f" %}
+[https://github.com/sushen/Toilet/blob/master/app/src/main/res/layout/activity\_main.xml](https://github.com/sushen/Toilet/blob/master/app/src/main/res/layout/activity_main.xml)
 
 ```text
 <?xml version="1.0" encoding="utf-8"?>
